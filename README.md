@@ -4,10 +4,11 @@ and hope that it could be used again subsequential for other type of disease whi
 
 ## JSON creation
 
-The site https://www.webmd.com/cancer/cancer-a-to-z was used as reference for the data of our json
+The site https://www.webmd.com/cancer/cancer-a-to-z was used as reference for the data of our json.
 We create all the uuid necessary for our galaxy thanks to https://www.uuidgenerator.net/
 
-Our json classified all the cancer, for each of them we have :
+Our json classified all the cancer. 
+  For each of them we have :
 - value : the name of the cancer
 - description : a sentence to present it
 - ref : url of the article for more details
