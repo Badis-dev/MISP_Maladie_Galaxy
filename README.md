@@ -9,7 +9,7 @@ and hope that it could be used again subsequential for other type of disease whi
 - [ ] Integration to the [MISP project](https://github.com/MISP)
 - [ ] End of project
 
-#### Contributors
+## Contributors
 Main contributors : 
 - BELHADJ-CHAIDI Badis
 - PEDROTTI Thomas
